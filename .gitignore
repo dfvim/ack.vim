@@ -1,1 +1,3 @@
 tags
+# ignore commit message
+.gitcommit
